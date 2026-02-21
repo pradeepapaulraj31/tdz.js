@@ -1,2 +1,2 @@
 console.log(amma);
-var amma="value";
+var $amma="value";
