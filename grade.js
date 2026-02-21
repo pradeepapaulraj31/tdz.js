@@ -1,5 +1,5 @@
 let score =100;
-if(score>=90){
+if(score>=90 ){
     console.log("A");
 }else if(score>=80){
     console.log("B");
