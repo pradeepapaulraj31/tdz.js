@@ -1,3 +1,1 @@
-for(let i=1;i<=10;i++){
-    console.log(i*5);
-}
+for (let i = 0; i < 5; i++) { if (i === 3) break; } console.log(i);
